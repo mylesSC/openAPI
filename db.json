@@ -1,24 +1,4 @@
 {
-  "singleUser": {
-      "firstName": "Abdiel",
-      "middleName": "B",
-      "lastName": "Conn",
-      "jobTitle": "Dynamic Identity Associate",
-      "prefix": "Ms.",
-      "suffix": "I",
-      "title": "Principal Accounts Executive",
-      "jobDescriptor": "Dynamic",
-      "jobArea": "Tactics",
-      "jobType": "Director",
-      "zipCode": "98744-4277",
-      "city": "Kemmerview",
-      "streetName": "Valentine Lake",
-      "streetAddress": "409 Arnaldo Walks",
-      "county": "Borders",
-      "state": "Virginia",
-      "country": "Montenegro",
-      "imageURL": "https://cdn.fakercloud.com/avatars/jmfsocial_128.jpg"
-  },
   "users": [
     {
       "firstName": "Abdiel",

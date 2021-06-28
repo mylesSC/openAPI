@@ -1,24 +1,26 @@
 {
   "users": [
     {
-      "firstName": "Abdiel",
-      "middleName": "B",
-      "lastName": "Conn",
-      "jobTitle": "Dynamic Identity Associate",
-      "prefix": "Ms.",
-      "suffix": "I",
-      "title": "Principal Accounts Executive",
-      "jobDescriptor": "Dynamic",
-      "jobArea": "Tactics",
-      "jobType": "Director",
-      "zipCode": "98744-4277",
-      "city": "Kemmerview",
-      "streetName": "Valentine Lake",
-      "streetAddress": "409 Arnaldo Walks",
-      "county": "Borders",
-      "state": "Virginia",
-      "country": "Montenegro",
-      "imageURL": "https://cdn.fakercloud.com/avatars/jmfsocial_128.jpg"
+      "firstName": "Wade",
+      "middleName": "W",
+      "lastName": "Wilson",
+      "jobTitle": "Merc with a Mouth",
+      "prefix": "Mr.",
+      "suffix": null,
+      "title": "Deadpool",
+      "jobDescriptor": "Antihero",
+      "jobArea": "Liquidations",
+      "jobType": "Fun",
+      "zipCode": "32246-0004",
+      "city": "Jacksonville",
+      "streetName": "Wells Rd",
+      "streetAddress": "1910 Suite C5",
+      "county": "Duval",
+      "state": "Florida",
+      "country": "United States of America",
+      "imageURL": "https://pbs.twimg.com/profile_images/1208234904405757953/mT0cFOVQ_400x400.jpg",
+      "pw": "password",
+      "isRoot": true
     },
     {
       "firstName": "Demetrius",
@@ -38,7 +40,9 @@
       "county": "Buckinghamshire",
       "state": "South Dakota",
       "country": "Cyprus",
-      "imageURL": "https://cdn.fakercloud.com/avatars/bennyjien_128.jpg"
+      "imageURL": "https://cdn.fakercloud.com/avatars/bennyjien_128.jpg",
+      "pw": "QunnkDnx",
+      "isManager": true
     },
     {
       "firstName": "Meredith",
@@ -58,7 +62,9 @@
       "county": "Berkshire",
       "state": "Montana",
       "country": "Angola",
-      "imageURL": "https://cdn.fakercloud.com/avatars/wake_gs_128.jpg"
+      "imageURL": "https://cdn.fakercloud.com/avatars/wake_gs_128.jpg",
+      "pw": "fPTdCngU",
+      "isManager": true
     },
     {
       "firstName": "Yoshiko",
@@ -78,7 +84,9 @@
       "county": "Bedfordshire",
       "state": "Illinois",
       "country": "Saint Martin",
-      "imageURL": "https://cdn.fakercloud.com/avatars/curiousonaut_128.jpg"
+      "imageURL": "https://cdn.fakercloud.com/avatars/curiousonaut_128.jpg",
+      "pw": "ZsvCtJFR",
+      "isManager": true
     },
     {
       "firstName": "Susana",
@@ -98,7 +106,8 @@
       "county": "Avon",
       "state": "Oregon",
       "country": "Uruguay",
-      "imageURL": "https://cdn.fakercloud.com/avatars/cofla_128.jpg"
+      "imageURL": "https://cdn.fakercloud.com/avatars/cofla_128.jpg",
+      "pw": "zjkTikij"
     },
     {
       "firstName": "D'angelo",
@@ -118,7 +127,8 @@
       "county": "Borders",
       "state": "South Carolina",
       "country": "Marshall Islands",
-      "imageURL": "https://cdn.fakercloud.com/avatars/ryanmclaughlin_128.jpg"
+      "imageURL": "https://cdn.fakercloud.com/avatars/ryanmclaughlin_128.jpg",
+      "pw": "EQForMpE"
     },
     {
       "firstName": "Kale",
@@ -138,7 +148,8 @@
       "county": "Berkshire",
       "state": "Wisconsin",
       "country": "Kuwait",
-      "imageURL": "https://cdn.fakercloud.com/avatars/vitor376_128.jpg"
+      "imageURL": "https://cdn.fakercloud.com/avatars/vitor376_128.jpg",
+      "pw": "RgcJRuPJ"
     },
     {
       "firstName": "Telly",
@@ -158,7 +169,8 @@
       "county": "Bedfordshire",
       "state": "New Hampshire",
       "country": "Aruba",
-      "imageURL": "https://cdn.fakercloud.com/avatars/bobbytwoshoes_128.jpg"
+      "imageURL": "https://cdn.fakercloud.com/avatars/bobbytwoshoes_128.jpg",
+      "pw": "jnNVJJwV"
     },
     {
       "firstName": "Judd",
@@ -178,7 +190,8 @@
       "county": "Borders",
       "state": "New Hampshire",
       "country": "Samoa",
-      "imageURL": "https://cdn.fakercloud.com/avatars/jpenico_128.jpg"
+      "imageURL": "https://cdn.fakercloud.com/avatars/jpenico_128.jpg",
+      "pw": "ohFPeFWr"
     },
     {
       "firstName": "Yasmeen",
@@ -198,7 +211,8 @@
       "county": "Borders",
       "state": "Michigan",
       "country": "Mayotte",
-      "imageURL": "https://cdn.fakercloud.com/avatars/kylefrost_128.jpg"
+      "imageURL": "https://cdn.fakercloud.com/avatars/kylefrost_128.jpg",
+      "pw": "hPMtekEW"
     },
     {
       "firstName": "Myrtle",
@@ -218,7 +232,8 @@
       "county": "Buckinghamshire",
       "state": "Missouri",
       "country": "Tuvalu",
-      "imageURL": "https://cdn.fakercloud.com/avatars/byryan_128.jpg"
+      "imageURL": "https://cdn.fakercloud.com/avatars/byryan_128.jpg",
+      "pw": "kNRbdULN"
     },
     {
       "firstName": "Eleazar",
@@ -238,7 +253,8 @@
       "county": "Cambridgeshire",
       "state": "Connecticut",
       "country": "Bolivia",
-      "imageURL": "https://cdn.fakercloud.com/avatars/nicolai_larsen_128.jpg"
+      "imageURL": "https://cdn.fakercloud.com/avatars/nicolai_larsen_128.jpg",
+      "pw": "dsYvQzEs"
     },
     {
       "firstName": "Breana",
@@ -258,7 +274,8 @@
       "county": "Cambridgeshire",
       "state": "Nebraska",
       "country": "Suriname",
-      "imageURL": "https://cdn.fakercloud.com/avatars/j2deme_128.jpg"
+      "imageURL": "https://cdn.fakercloud.com/avatars/j2deme_128.jpg",
+      "pw": "uFKrgjnc"
     },
     {
       "firstName": "Elmo",
@@ -278,7 +295,8 @@
       "county": "Berkshire",
       "state": "Connecticut",
       "country": "Dominica",
-      "imageURL": "https://cdn.fakercloud.com/avatars/magugzbrand2d_128.jpg"
+      "imageURL": "https://cdn.fakercloud.com/avatars/magugzbrand2d_128.jpg",
+      "pw": "KGRKwNnR"
     },
     {
       "firstName": "Montana",
@@ -298,7 +316,8 @@
       "county": "Buckinghamshire",
       "state": "North Dakota",
       "country": "Guadeloupe",
-      "imageURL": "https://cdn.fakercloud.com/avatars/dansowter_128.jpg"
+      "imageURL": "https://cdn.fakercloud.com/avatars/dansowter_128.jpg",
+      "pw": "LDYAoTGK"
     }
   ],
   "profile": {

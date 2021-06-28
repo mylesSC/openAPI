@@ -289,27 +289,6 @@
          "imageURL":"https://cdn.fakercloud.com/avatars/j2deme_128.jpg",
          "pw":"uFKrgjnc",
          "id":13
-      },
-      {
-         "firstName":"Elmo",
-         "middleName":"B",
-         "lastName":"Simonis",
-         "jobTitle":"Future Integration Coordinator",
-         "prefix":"Ms.",
-         "suffix":"III",
-         "title":"Human Research Agent",
-         "jobDescriptor":"Internal",
-         "jobArea":"Functionality",
-         "jobType":"Architect",
-         "zipCode":"29011-1437",
-         "city":"Arlington",
-         "streetName":"Friesen Rest",
-         "streetAddress":"1927 Matt Expressway",
-         "county":"Berkshire",
-         "state":"Connecticut",
-         "country":"Dominica",
-         "imageURL":"https://cdn.fakercloud.com/avatars/magugzbrand2d_128.jpg",
-         "id":14
       }
    ],
    "profile":{
